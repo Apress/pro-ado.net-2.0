@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\DragDropWebsite\", "DragDropWebsite\", "{73E07C6E-DE0E-4C9E-8575-539AF78F3810}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/DragDropWebsite"
+		Debug.AspNetCompiler.PhysicalPath = "DragDropWebsite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\DragDropWebsite\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "true"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/DragDropWebsite"
+		Release.AspNetCompiler.PhysicalPath = "DragDropWebsite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\DragDropWebsite\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "true"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1831"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragDropWinApp", "DragDropWinApp\DragDropWinApp.csproj", "{6FDD10D5-3216-4218-BDA1-9F57E6EEF963}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{092764A5-16CC-467C-B471-381FEB73F54E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{42B9CAF1-56A2-42E6-A53D-60E1B6C3F28B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73E07C6E-DE0E-4C9E-8575-539AF78F3810}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{73E07C6E-DE0E-4C9E-8575-539AF78F3810}.Debug|Any CPU.Build.0 = Debug|.NET
+		{73E07C6E-DE0E-4C9E-8575-539AF78F3810}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{73E07C6E-DE0E-4C9E-8575-539AF78F3810}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{73E07C6E-DE0E-4C9E-8575-539AF78F3810}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{73E07C6E-DE0E-4C9E-8575-539AF78F3810}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{73E07C6E-DE0E-4C9E-8575-539AF78F3810}.Release|Mixed Platforms.Build.0 = Debug|.NET
+		{6FDD10D5-3216-4218-BDA1-9F57E6EEF963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FDD10D5-3216-4218-BDA1-9F57E6EEF963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FDD10D5-3216-4218-BDA1-9F57E6EEF963}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{6FDD10D5-3216-4218-BDA1-9F57E6EEF963}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{6FDD10D5-3216-4218-BDA1-9F57E6EEF963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FDD10D5-3216-4218-BDA1-9F57E6EEF963}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FDD10D5-3216-4218-BDA1-9F57E6EEF963}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{6FDD10D5-3216-4218-BDA1-9F57E6EEF963}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{092764A5-16CC-467C-B471-381FEB73F54E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{092764A5-16CC-467C-B471-381FEB73F54E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{092764A5-16CC-467C-B471-381FEB73F54E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{092764A5-16CC-467C-B471-381FEB73F54E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{092764A5-16CC-467C-B471-381FEB73F54E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{092764A5-16CC-467C-B471-381FEB73F54E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{092764A5-16CC-467C-B471-381FEB73F54E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{092764A5-16CC-467C-B471-381FEB73F54E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{42B9CAF1-56A2-42E6-A53D-60E1B6C3F28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B9CAF1-56A2-42E6-A53D-60E1B6C3F28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B9CAF1-56A2-42E6-A53D-60E1B6C3F28B}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{42B9CAF1-56A2-42E6-A53D-60E1B6C3F28B}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{42B9CAF1-56A2-42E6-A53D-60E1B6C3F28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B9CAF1-56A2-42E6-A53D-60E1B6C3F28B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42B9CAF1-56A2-42E6-A53D-60E1B6C3F28B}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{42B9CAF1-56A2-42E6-A53D-60E1B6C3F28B}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

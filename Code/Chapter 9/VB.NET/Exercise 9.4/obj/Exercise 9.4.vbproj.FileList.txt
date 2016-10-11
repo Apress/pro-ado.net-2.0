@@ -1,0 +1,10 @@
+bin\Exercise 9.4.exe.config
+bin\Exercise 9.4.exe
+bin\Exercise 9.4.pdb
+bin\Exercise 9.4.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Exercise_9_4.MyResources.resources
+obj\Debug\Exercise 9.4.vbproj.GenerateResource.Cache
+obj\Debug\Exercise 9.4.exe
+obj\Debug\Exercise 9.4.xml
+obj\Debug\Exercise 9.4.pdb

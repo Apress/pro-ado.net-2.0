@@ -1,0 +1,8 @@
+<ROOT xmlns:sql='urn:schemas-microsoft-com:xml-sql'>
+  <sql:header>
+    <sql:param name="LastName" />
+  </sql:header>
+  <sql:query>
+SELECT FirstName, LastName FROM Person.Contact WHERE LastName=@LastName For XML Auto
+ </sql:query>
+</ROOT>

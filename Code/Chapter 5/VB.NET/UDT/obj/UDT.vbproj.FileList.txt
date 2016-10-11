@@ -1,0 +1,5 @@
+bin\UDT.dll
+bin\UDT.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\UDT.dll
+obj\Debug\UDT.pdb

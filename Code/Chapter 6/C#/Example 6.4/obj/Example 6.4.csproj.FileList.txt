@@ -1,0 +1,7 @@
+.\bin\Debug\DS_Serialization.exe
+.\bin\Debug\DS_Serialization.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DS_Serialization.Properties.Resources.resources
+obj\Debug\Example 6.4.csproj.GenerateResource.Cache
+obj\Debug\DS_Serialization.exe
+obj\Debug\DS_Serialization.pdb

@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\SqlServerTrigger.dll
+bin\SqlServerTrigger.pdb
+obj\Debug\SqlServerTrigger.dll
+obj\Debug\SqlServerTrigger.pdb

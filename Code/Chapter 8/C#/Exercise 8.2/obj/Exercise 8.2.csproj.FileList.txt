@@ -1,0 +1,9 @@
+.\bin\Debug\Exercise 8.2.exe
+.\bin\Debug\Exercise 8.2.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Exercise_8_2.Properties.Resources.resources
+obj\Debug\Exercise 8.2.csproj.GenerateResource.Cache
+obj\Debug\Exercise 8.2.exe
+obj\Debug\Exercise 8.2.pdb
+.\bin\Debug\CreateDataSet.dll
+.\bin\Debug\CreateDataSet.pdb

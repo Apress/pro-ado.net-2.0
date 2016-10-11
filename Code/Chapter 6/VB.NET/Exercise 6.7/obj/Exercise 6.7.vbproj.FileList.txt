@@ -1,0 +1,10 @@
+bin\Exercise 6.7.exe.config
+bin\Exercise 6.7.exe
+bin\Exercise 6.7.pdb
+bin\Exercise 6.7.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Exercise_6_7.MyResources.resources
+obj\Debug\Exercise 6.7.vbproj.GenerateResource.Cache
+obj\Debug\Exercise 6.7.exe
+obj\Debug\Exercise 6.7.xml
+obj\Debug\Exercise 6.7.pdb

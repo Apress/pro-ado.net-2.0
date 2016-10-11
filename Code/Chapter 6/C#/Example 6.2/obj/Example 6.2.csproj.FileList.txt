@@ -1,0 +1,7 @@
+.\bin\Debug\Example 6.1.exe
+.\bin\Debug\Example 6.1.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Example_6_1.Properties.Resources.resources
+obj\Debug\Example 6.2.csproj.GenerateResource.Cache
+obj\Debug\Example 6.1.exe
+obj\Debug\Example 6.1.pdb

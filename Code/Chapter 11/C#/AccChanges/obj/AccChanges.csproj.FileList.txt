@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AccChanges.Form1.resources
+obj\Debug\AccChanges.Properties.Resources.resources
+obj\Debug\AccChanges.csproj.GenerateResource.Cache
+bin\Debug\AccChanges.exe
+bin\Debug\AccChanges.pdb
+obj\Debug\AccChanges.exe
+obj\Debug\AccChanges.pdb

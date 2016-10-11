@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="VariousTables" targetNamespace="http://tempuri.org/VariousTables.xsd" xmlns:mstns="http://tempuri.org/VariousTables.xsd" xmlns="http://tempuri.org/VariousTables.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" GeneratorTypeConverterClassName="Converter" Modifier="AutoLayout, AnsiClass, NotPublic, Public" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="VariousTables" msdata:IsDataSet="true" msdata:EnforceConstraints="False" msprop:User_DataSetName="VariousTables" msprop:DSGenerator_DataSetName="VariousTables">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Table1" msprop:Generator_SuspendValidationVarName="m_suspendValidation" msprop:Generator_SuspendValidationPropName="SuspendValidation" msprop:User_TableName="Table1" msprop:Generator_RowClassName="Table1Row" msprop:Generator_RowEvArgName="Table1RowChangeEvent" msprop:Generator_RowEvHandlerName="Table1RowChangeEventHandler" msprop:Generator_TableClassName="Table1DataTable" msprop:Generator_TableVarName="tableTable1" msprop:Generator_TablePropName="Table1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ColumnA" msprop:Generator_DelegateName="ColumnAChangeEventHandler" msprop:Generator_ChangingEventName="ColumnAChanging" msprop:Generator_ColumnVarNameInTable="columnColumnA" msprop:Generator_EventArgName="ColumnAChangeEventArg" msprop:User_ColumnName="ColumnA" msprop:Generator_ColumnPropNameInRow="ColumnA" msprop:Generator_ChangedEventName="ColumnAChanged" msprop:Generator_ColumnPropNameInTable="ColumnAColumn" type="xs:string" />
+              <xs:element name="ColumnB" msprop:Generator_DelegateName="ColumnBChangeEventHandler" msprop:Generator_ChangingEventName="ColumnBChanging" msprop:Generator_ColumnVarNameInTable="columnColumnB" msprop:Generator_EventArgName="ColumnBChangeEventArg" msprop:User_ColumnName="ColumnB" msprop:Generator_ColumnPropNameInRow="ColumnB" msprop:Generator_ChangedEventName="ColumnBChanged" msprop:Generator_ColumnPropNameInTable="ColumnBColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Table2" msdata:Locale="en-US" msprop:Generator_SuspendValidationVarName="m_suspendValidation" msprop:Generator_SuspendValidationPropName="SuspendValidation" msprop:User_TableName="Table2" msprop:Generator_RowClassName="Table2Row" msprop:Generator_RowEvArgName="Table2RowChangeEvent" msprop:Generator_RowEvHandlerName="Table2RowChangeEventHandler" msprop:Generator_TableClassName="Table2DataTable" msprop:Generator_TableVarName="tableTable2" msprop:Generator_TablePropName="Table2">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ColumnA" msdata:Caption="Column1" msprop:Generator_DelegateName="ColumnAChangeEventHandler" msprop:Generator_ChangingEventName="ColumnAChanging" msprop:Generator_ColumnVarNameInTable="columnColumnA" msprop:Generator_EventArgName="ColumnAChangeEventArg" msprop:User_ColumnName="ColumnA" msprop:Generator_ColumnPropNameInRow="ColumnA" msprop:Generator_ChangedEventName="ColumnAChanged" msprop:Generator_ColumnPropNameInTable="ColumnAColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ColumnC" msdata:Caption="Column2" msprop:Generator_DelegateName="ColumnCChangeEventHandler" msprop:Generator_ChangingEventName="ColumnCChanging" msprop:Generator_ColumnVarNameInTable="columnColumnC" msprop:Generator_EventArgName="ColumnCChangeEventArg" msprop:User_ColumnName="ColumnC" msprop:Generator_ColumnPropNameInRow="ColumnC" msprop:Generator_ChangedEventName="ColumnCChanged" msprop:Generator_ColumnPropNameInTable="ColumnCColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Table3" msdata:Locale="en-US" msprop:Generator_SuspendValidationVarName="m_suspendValidation" msprop:Generator_SuspendValidationPropName="SuspendValidation" msprop:User_TableName="Table3" msprop:Generator_RowClassName="Table3Row" msprop:Generator_RowEvArgName="Table3RowChangeEvent" msprop:Generator_RowEvHandlerName="Table3RowChangeEventHandler" msprop:Generator_TableClassName="Table3DataTable" msprop:Generator_TableVarName="tableTable3" msprop:Generator_TablePropName="Table3">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ColumnD" msdata:Caption="Column1" msprop:Generator_DelegateName="ColumnDChangeEventHandler" msprop:Generator_ChangingEventName="ColumnDChanging" msprop:Generator_ColumnVarNameInTable="columnColumnD" msprop:Generator_EventArgName="ColumnDChangeEventArg" msprop:User_ColumnName="ColumnD" msprop:Generator_ColumnPropNameInRow="ColumnD" msprop:Generator_ChangedEventName="ColumnDChanged" msprop:Generator_ColumnPropNameInTable="ColumnDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ColumnE" msdata:Caption="Column2" msprop:Generator_DelegateName="ColumnEChangeEventHandler" msprop:Generator_ChangingEventName="ColumnEChanging" msprop:Generator_ColumnVarNameInTable="columnColumnE" msprop:Generator_EventArgName="ColumnEChangeEventArg" msprop:User_ColumnName="ColumnE" msprop:Generator_ColumnPropNameInRow="ColumnE" msprop:Generator_ChangedEventName="ColumnEChanged" msprop:Generator_ColumnPropNameInTable="ColumnEColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Table0" msdata:Locale="en-US" msprop:Generator_SuspendValidationVarName="m_suspendValidation" msprop:Generator_SuspendValidationPropName="SuspendValidation" msprop:Generator_TableClassName="Table0DataTable" msprop:User_TableName="Table0" msprop:Generator_RowClassName="Table0Row" msprop:Generator_RowEvArgName="Table0RowChangeEvent" msprop:Generator_RowEvHandlerName="Table0RowChangeEventHandler" msprop:Generator_TablePropName="Table0" msprop:Generator_TableVarName="tableTable0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ColumnA" msprop:Generator_DelegateName="ColumnAChangeEventHandler" msprop:Generator_ChangingEventName="ColumnAChanging" msprop:Generator_ColumnVarNameInTable="columnColumnA" msprop:Generator_EventArgName="ColumnAChangeEventArg" msprop:User_ColumnName="ColumnA" msprop:Generator_ColumnPropNameInRow="ColumnA" msprop:Generator_ChangedEventName="ColumnAChanged" msprop:Generator_ColumnPropNameInTable="ColumnAColumn" type="xs:string" />
+              <xs:element name="ColumnB" msprop:Generator_DelegateName="ColumnBChangeEventHandler" msprop:Generator_ChangingEventName="ColumnBChanging" msprop:Generator_ColumnVarNameInTable="columnColumnB" msprop:Generator_EventArgName="ColumnBChangeEventArg" msprop:User_ColumnName="ColumnB" msprop:Generator_ColumnPropNameInRow="ColumnB" msprop:Generator_ChangedEventName="ColumnBChanged" msprop:Generator_ColumnPropNameInTable="ColumnBColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Table1" />
+      <xs:field xpath="mstns:ColumnA" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

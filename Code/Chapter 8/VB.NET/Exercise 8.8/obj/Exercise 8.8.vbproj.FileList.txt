@@ -1,0 +1,13 @@
+bin\Exercise 8.8.exe.config
+bin\Exercise 8.8.exe
+bin\Exercise 8.8.pdb
+bin\Exercise 8.8.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Exercise_8_8.MyResources.resources
+obj\Debug\Exercise 8.8.vbproj.GenerateResource.Cache
+obj\Debug\Exercise 8.8.exe
+obj\Debug\Exercise 8.8.xml
+obj\Debug\Exercise 8.8.pdb
+bin\CreateDataSet.dll
+bin\CreateDataSet.pdb
+bin\CreateDataSet.xml

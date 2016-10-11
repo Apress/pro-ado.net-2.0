@@ -1,0 +1,5 @@
+bin\SqlServerStoredProc.dll
+bin\SqlServerStoredProc.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SqlServerStoredProc.dll
+obj\Debug\SqlServerStoredProc.pdb

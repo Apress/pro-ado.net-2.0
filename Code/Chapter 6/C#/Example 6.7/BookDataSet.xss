@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<DiagramLayout xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ex:showrelationlabel="False" ViewPortX="-10" ViewPortY="-47" xmlns:ex="urn:schemas-microsoft-com:xml-msdatasource-layout-extended" xmlns="urn:schemas-microsoft-com:xml-msdatasource-layout">
+  <Shapes>
+    <Shape ID="DesignTable:Books" ZOrder="3" X="70" Y="70" Height="74" Width="150" AdapterExpanded="true" DataTableExpanded="true" OldAdapterHeight="0" OldDataTableHeight="0" SplitterPosition="86" />
+    <Shape ID="DesignTable:BookReviews" ZOrder="2" X="290" Y="70" Height="74" Width="150" AdapterExpanded="true" DataTableExpanded="true" OldAdapterHeight="0" OldDataTableHeight="0" SplitterPosition="86" />
+  </Shapes>
+  <Connectors>
+    <Connector ID="DesignRelation:KeyTitleRef" ZOrder="1" LineWidth="11">
+      <RoutePoints>
+        <Point>
+          <X>220</X>
+          <Y>107</Y>
+        </Point>
+        <Point>
+          <X>290</X>
+          <Y>107</Y>
+        </Point>
+      </RoutePoints>
+    </Connector>
+  </Connectors>
+</DiagramLayout>

@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\HandWrittenUDF.dll
+bin\Debug\HandWrittenUDF.pdb
+obj\Debug\HandWrittenUDF.dll
+obj\Debug\HandWrittenUDF.pdb

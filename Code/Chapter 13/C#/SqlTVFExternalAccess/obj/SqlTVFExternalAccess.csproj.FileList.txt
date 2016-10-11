@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\SqlTVFExternalAccess.dll
+bin\Debug\SqlTVFExternalAccess.pdb
+obj\Debug\SqlTVFExternalAccess.dll
+obj\Debug\SqlTVFExternalAccess.pdb

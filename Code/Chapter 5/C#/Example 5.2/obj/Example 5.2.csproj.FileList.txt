@@ -1,0 +1,8 @@
+.\bin\Debug\Example 5.2.exe.config
+.\bin\Debug\Example 5.2.exe
+.\bin\Debug\Example 5.2.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Example_5_2.Properties.Resources.resources
+obj\Debug\Example 5.2.csproj.GenerateResource.Cache
+obj\Debug\Example 5.2.exe
+obj\Debug\Example 5.2.pdb

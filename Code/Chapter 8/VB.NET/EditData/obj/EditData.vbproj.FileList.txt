@@ -1,0 +1,13 @@
+bin\EditData.exe.config
+bin\EditData.exe
+bin\EditData.pdb
+bin\EditData.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\EditData.MyResources.resources
+obj\Debug\EditData.vbproj.GenerateResource.Cache
+obj\Debug\EditData.exe
+obj\Debug\EditData.xml
+obj\Debug\EditData.pdb
+bin\CreateDataSet.dll
+bin\CreateDataSet.pdb
+bin\CreateDataSet.xml

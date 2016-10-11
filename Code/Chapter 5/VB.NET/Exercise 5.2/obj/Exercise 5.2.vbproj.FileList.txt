@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Exercise 5.2.vbproj.GenerateResource.Cache
+bin\Debug\Exercise 5.2.exe
+bin\Debug\Exercise 5.2.pdb
+bin\Debug\Exercise_5.2.xml
+obj\Debug\Exercise 5.2.exe
+obj\Debug\Exercise_5.2.xml
+obj\Debug\Exercise 5.2.pdb
+obj\Debug\Exercise_5_2.Resources.resources

@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Products>
+    <ID>1</ID>
+    <Name>Caterham Seven de Dion #0</Name>
+    <Category>1</Category>
+  </Products>
+  <Products>
+    <ID>2</ID>
+    <Name>Dodge Viper #1</Name>
+    <Category>2</Category>
+  </Products>
+  <Products>
+    <ID>3</ID>
+    <Name>Caterham Seven de Dion #2</Name>
+    <Category>1</Category>
+  </Products>
+  <Products>
+    <ID>4</ID>
+    <Name>Dodge Viper #3</Name>
+    <Category>2</Category>
+  </Products>
+  <Products>
+    <ID>5</ID>
+    <Name>Caterham Seven de Dion #4</Name>
+    <Category>1</Category>
+  </Products>
+  <Products>
+    <ID>6</ID>
+    <Name>Dodge Viper #5</Name>
+    <Category>2</Category>
+  </Products>
+  <Products>
+    <ID>7</ID>
+    <Name>Caterham Seven de Dion #6</Name>
+    <Category>1</Category>
+  </Products>
+  <Products>
+    <ID>8</ID>
+    <Name>Dodge Viper #7</Name>
+    <Category>2</Category>
+  </Products>
+  <Products>
+    <ID>9</ID>
+    <Name>Caterham Seven de Dion #8</Name>
+    <Category>1</Category>
+  </Products>
+  <Products>
+    <ID>10</ID>
+    <Name>Dodge Viper #9</Name>
+    <Category>2</Category>
+  </Products>
+</DocumentElement>

@@ -1,0 +1,10 @@
+bin\Debug\AccChanges.exe
+bin\Debug\AccChanges.pdb
+bin\Debug\AccChanges.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AccChanges.Form1.resources
+obj\Debug\AccChanges.Resources.resources
+obj\Debug\AccChanges.vbproj.GenerateResource.Cache
+obj\Debug\AccChanges.exe
+obj\Debug\AccChanges.xml
+obj\Debug\AccChanges.pdb

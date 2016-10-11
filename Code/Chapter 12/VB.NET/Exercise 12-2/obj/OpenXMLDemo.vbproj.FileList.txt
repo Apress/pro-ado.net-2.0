@@ -1,0 +1,2 @@
+obj\Debug\OpenXMLDemo.exe
+obj\Debug\OpenXMLDemo.pdb

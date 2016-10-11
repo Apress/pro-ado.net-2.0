@@ -1,0 +1,5 @@
+bin\SqlServerTVF.dll
+bin\SqlServerTVF.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SqlServerTVF.dll
+obj\Debug\SqlServerTVF.pdb

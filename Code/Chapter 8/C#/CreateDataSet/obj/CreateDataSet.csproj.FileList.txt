@@ -1,0 +1,7 @@
+.\bin\Debug\CreateDataSet.dll
+.\bin\Debug\CreateDataSet.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CreateDataSet.Properties.Resources.resources
+obj\Debug\CreateDataSet.csproj.GenerateResource.Cache
+obj\Debug\CreateDataSet.dll
+obj\Debug\CreateDataSet.pdb

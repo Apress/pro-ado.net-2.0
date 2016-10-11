@@ -1,0 +1,9 @@
+USE Test
+GO
+CREATE TABLE Animals2(
+	Animal2ID int NOT NULL,
+	AnimalName varchar(50) NOT NULL,
+   Timestamp,
+ CONSTRAINT PK_Animals2 PRIMARY KEY (Animal2ID)
+)
+GO

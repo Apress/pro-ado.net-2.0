@@ -1,0 +1,5 @@
+bin\Debug\SqlServerAggregate.dll
+bin\Debug\SqlServerAggregate.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SqlServerAggregate.dll
+obj\Debug\SqlServerAggregate.pdb

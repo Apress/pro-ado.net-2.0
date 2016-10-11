@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<DiagramLayout xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ex:showrelationlabel="False" ViewPortX="0" ViewPortY="0" xmlns:ex="urn:schemas-microsoft-com:xml-msdatasource-layout-extended" xmlns="urn:schemas-microsoft-com:xml-msdatasource-layout">
+  <Shapes>
+    <Shape ID="DesignTable:Customers" ZOrder="5" X="55" Y="39" Height="74" SplitterPosition="70" Width="150" />
+    <Shape ID="DesignTable:Products" ZOrder="3" X="244" Y="33" Height="90" SplitterPosition="86" Width="150" />
+    <Shape ID="DesignTable:CustomerProducts" ZOrder="4" X="242" Y="173" Height="74" SplitterPosition="70" Width="151" />
+  </Shapes>
+  <Connectors>
+    <Connector ID="DesignRelation:FK_CustomerProducts_Customers" ZOrder="2" LineWidth="11">
+      <RoutePoints>
+        <Point>
+          <X>188</X>
+          <Y>113</Y>
+        </Point>
+        <Point>
+          <X>188</X>
+          <Y>190</Y>
+        </Point>
+        <Point>
+          <X>242</X>
+          <Y>190</Y>
+        </Point>
+      </RoutePoints>
+    </Connector>
+    <Connector ID="DesignRelation:FK_CustomerProducts_Products" ZOrder="1" LineWidth="11">
+      <RoutePoints>
+        <Point>
+          <X>318</X>
+          <Y>123</Y>
+        </Point>
+        <Point>
+          <X>318</X>
+          <Y>173</Y>
+        </Point>
+      </RoutePoints>
+    </Connector>
+  </Connectors>
+</DiagramLayout>

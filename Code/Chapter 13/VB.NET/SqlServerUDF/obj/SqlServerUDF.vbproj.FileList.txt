@@ -1,0 +1,5 @@
+bin\SqlServerUDF.dll
+bin\SqlServerUDF.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SqlServerUDF.dll
+obj\Debug\SqlServerUDF.pdb

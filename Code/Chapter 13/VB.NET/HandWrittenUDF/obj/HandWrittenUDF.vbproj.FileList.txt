@@ -1,0 +1,9 @@
+bin\Debug\HandWrittenUDF.dll
+bin\Debug\HandWrittenUDF.pdb
+bin\Debug\HandWrittenUDF.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\HandWrittenUDF.Resources.resources
+obj\Debug\HandWrittenUDF.vbproj.GenerateResource.Cache
+obj\Debug\HandWrittenUDF.dll
+obj\Debug\HandWrittenUDF.xml
+obj\Debug\HandWrittenUDF.pdb

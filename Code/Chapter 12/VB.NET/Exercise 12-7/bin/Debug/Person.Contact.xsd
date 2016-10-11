@@ -1,0 +1,12 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:sql="urn:schemas-microsoft-com:mapping-schema">
+<!-- XML output we want to map           
+             <Person.Contact FirstName="Gustavo" LastName="Achong"/>
+-->
+   <xs:element name="Person.Contact" sql:relation="Person.Contact">
+   <xs:complexType>
+      <xs:attribute name="FirstName" sql:field="FirstName" type="xs:string" />
+      <xs:attribute name="LastName" sql:field="LastName" type="xs:string" />
+   </xs:complexType>
+   </xs:element>
+</xs:schema>

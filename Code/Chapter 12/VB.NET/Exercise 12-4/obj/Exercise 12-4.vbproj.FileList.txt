@@ -1,0 +1,9 @@
+bin\Debug\Exercise 12-4.exe
+bin\Debug\Exercise 12-4.pdb
+bin\Debug\Exercise 12-4.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Exercise_12_4.Resources.resources
+obj\Debug\Exercise 12-4.vbproj.GenerateResource.Cache
+obj\Debug\Exercise 12-4.exe
+obj\Debug\Exercise 12-4.xml
+obj\Debug\Exercise 12-4.pdb

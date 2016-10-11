@@ -1,0 +1,10 @@
+bin\Debug\ConsoleApp.exe.config
+bin\Debug\ConsoleApp.exe
+bin\Debug\ConsoleApp.pdb
+bin\Debug\ConsoleApp.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ConsoleApp.Resources.resources
+obj\Debug\ConsoleApp.vbproj.GenerateResource.Cache
+obj\Debug\ConsoleApp.exe
+obj\Debug\ConsoleApp.xml
+obj\Debug\ConsoleApp.pdb

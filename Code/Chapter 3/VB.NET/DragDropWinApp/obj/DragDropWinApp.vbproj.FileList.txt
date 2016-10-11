@@ -1,0 +1,11 @@
+bin\Debug\DragDropWinApp.exe.config
+bin\Debug\DragDropWinApp.exe
+bin\Debug\DragDropWinApp.pdb
+bin\Debug\DragDropWinApp.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DragDropWinApp.Form1.resources
+obj\Debug\DragDropWinApp.Resources.resources
+obj\Debug\DragDropWinApp.vbproj.GenerateResource.Cache
+obj\Debug\DragDropWinApp.exe
+obj\Debug\DragDropWinApp.xml
+obj\Debug\DragDropWinApp.pdb

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<DataSetUISetting Version="1.00" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+  <TableUISettings>
+    <TableUISetting Name="Animals">
+      <ColumnUISettings>
+      </ColumnUISettings>
+      <ControlSettings><ControlSetting ArtifactName="Microsoft:System.Windows.Forms:Form" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+          <BindableControlInfo Name="DataGridView" Type="System.Windows.Forms.DataGridView" AssemblyName="System.Windows.Forms, Version=2.0.3600.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+        </ControlSetting></ControlSettings>
+    </TableUISetting>
+    <TableUISetting Name="Pets">
+      <ColumnUISettings>
+      </ColumnUISettings>
+      <ControlSettings><ControlSetting ArtifactName="Microsoft:System.Windows.Forms:Form" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+          <BindableControlInfo Name="DataGridView" Type="System.Windows.Forms.DataGridView" AssemblyName="System.Windows.Forms, Version=2.0.3600.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+        </ControlSetting></ControlSettings>
+    </TableUISetting>
+    <TableUISetting Name="PetBelonging">
+      <ColumnUISettings>
+      </ColumnUISettings>
+      <ControlSettings><ControlSetting ArtifactName="Microsoft:System.Windows.Forms:Form" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+          <BindableControlInfo Name="DataGridView" Type="System.Windows.Forms.DataGridView" AssemblyName="System.Windows.Forms, Version=2.0.3600.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+        </ControlSetting></ControlSettings>
+    </TableUISetting>
+  </TableUISettings>
+</DataSetUISetting>

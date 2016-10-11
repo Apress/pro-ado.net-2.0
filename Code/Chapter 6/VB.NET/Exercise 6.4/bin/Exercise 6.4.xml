@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Exercise6.4
+</name>
+</assembly>
+<members>
+<member name="P:Exercise_6_4.My.Resources.MyResources.ResourceManager">
+	<summary>
+   Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Exercise_6_4.My.Resources.MyResources.Culture">
+	<summary>
+   Overrides the current thread's CurrentUICulture property for all
+   resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

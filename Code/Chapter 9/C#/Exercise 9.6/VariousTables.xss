@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<DiagramLayout xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ex:showrelationlabel="False" ViewPortX="-10" ViewPortY="-10" xmlns:ex="urn:schemas-microsoft-com:xml-msdatasource-layout-extended" xmlns="urn:schemas-microsoft-com:xml-msdatasource-layout">
+  <Shapes>
+    <Shape ID="DesignTable:Table1" ZOrder="2" X="181" Y="18" Height="58" SplitterPosition="54" Width="150" />
+    <Shape ID="DesignTable:Table2" ZOrder="3" X="15" Y="87" Height="58" SplitterPosition="54" Width="150" />
+    <Shape ID="DesignTable:Table3" ZOrder="4" X="180" Y="87" Height="58" SplitterPosition="54" Width="150" />
+    <Shape ID="DesignTable:Table0" ZOrder="1" X="15" Y="17" Height="58" SplitterPosition="54" Width="150" />
+  </Shapes>
+  <Connectors />
+</DiagramLayout>

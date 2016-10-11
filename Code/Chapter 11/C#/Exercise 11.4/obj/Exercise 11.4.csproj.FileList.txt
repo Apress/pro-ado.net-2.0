@@ -1,0 +1,7 @@
+obj\Debug\Exercise 11.4.exe
+obj\Debug\Exercise 11.4.pdb
+.\bin\Debug\Exercise 11.4.exe
+.\bin\Debug\Exercise 11.4.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Exercise_11_4.Properties.Resources.resources
+obj\Debug\Exercise 11.4.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+bin\Debug\Exercise 9.1.exe.config
+bin\Debug\Exercise 9.1.exe
+bin\Debug\Exercise 9.1.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Exercise_9_1.Form1.resources
+obj\Debug\Exercise_9_1.Properties.Resources.resources
+obj\Debug\Exercise 9.1.csproj.GenerateResource.Cache
+obj\Debug\Exercise 9.1.exe
+obj\Debug\Exercise 9.1.pdb

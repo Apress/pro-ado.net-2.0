@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\SqlBulkCopy.exe
+bin\Debug\SqlBulkCopy.pdb
+obj\Debug\SqlBulkCopy.exe
+obj\Debug\SqlBulkCopy.pdb

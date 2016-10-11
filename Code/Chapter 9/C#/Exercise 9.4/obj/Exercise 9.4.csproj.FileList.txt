@@ -1,0 +1,7 @@
+.\bin\Debug\Exercise 9.4.exe
+.\bin\Debug\Exercise 9.4.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Exercise_9_4.Properties.Resources.resources
+obj\Debug\Exercise 9.4.csproj.GenerateResource.Cache
+obj\Debug\Exercise 9.4.exe
+obj\Debug\Exercise 9.4.pdb
